@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    background: #9797ee;
+
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+canvas {
+    border: 1px solid #fff;
+}
